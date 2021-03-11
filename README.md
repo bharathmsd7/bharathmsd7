@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Bharath!](https://github.com/bharathmsd7) <img src="https://github.com/bharathmsd7/bharathmsd7/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Bharath!](https://github.com/bharathmsd7) :wave:
 <br><br>
 <a href="https://twitter.com/bharathmsd">
   <img align="left" alt="bharath's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
