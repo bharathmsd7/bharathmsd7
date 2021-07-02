@@ -19,15 +19,16 @@
 <br><br>
 ![](https://github.com/bharathmsd7/bharathmsd7/blob/main/header_.png)
 
-## <p align="center"><h4 align="center"><samp> An Software Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> An Software Developer, An Open Source Contributor, An Entrepreneur & A Competitive Programmer </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/bharathmsd7/bharathmsd7/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 👷 <samp>Currently pursuing B.Tech in Information Technology(2017-2021) from Sri Manakula Vinayagar Engineering College 
+- 💼 <samp>Full Stack Developer at Egnaro Software Solutions.
+- 👨‍💻 <samp>Cofounder of VHALL.
+- 👷 <samp>B.Tech in Information Technology(2017-2021) from Sri Manakula Vinayagar Engineering College. 
 - 🥇 <samp>Winner Unisys Cloud2020 year11 || Winner Smart India Hackathon(Software Edition 2019) || Smart India Hackathon (Hardware Edition 2019) 
-- 💼 <samp>I’m looking for **Full-Time(PPO)** Opportunities/roles.
 - 💬 <samp>Ask me about Software Development / Design System for your company.
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
 </div>
