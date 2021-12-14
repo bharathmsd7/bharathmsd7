@@ -25,8 +25,9 @@
 <img align="right" src="https://github.com/bharathmsd7/bharathmsd7/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 💼 <samp>Full Stack Developer at Egnaro Software Solutions.
-- 👨‍💻 <samp>Cofounder of VHALL.
+- 🧑‍💻 <samp>Full Stack Developer.
+- 💼 <samp>Currently working in Unisys.
+- 🚀 <samp>Cofounder of VHALL.
 - 👷 <samp>B.Tech in Information Technology(2017-2021) from Sri Manakula Vinayagar Engineering College. 
 - 🥇 <samp>Winner Unisys Cloud2020 year11 || Winner Smart India Hackathon(Software Edition 2019) || Smart India Hackathon (Hardware Edition 2019) 
 - 💬 <samp>Ask me about Software Development / Design System for your company.
